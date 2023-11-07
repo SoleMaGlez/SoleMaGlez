@@ -5,7 +5,7 @@ Buenas, me llamo Soledad y actualmente me estoy formando en desarrollo de aplica
 Cuento con varias "skills" y títulos, los cuales son:
 - Título de técnico en sistemas microinfomáticos.
 - Acreditación de nivel basico de prevención de riesgos laborables.
-- Niveles muy basicos de Java.
+- Nivel basico de Java.
 - Creación de páginas web basicas con html.
 - Bases de datos basicas con Access.
 - 
